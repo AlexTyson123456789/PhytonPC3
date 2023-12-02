@@ -1,5 +1,5 @@
 #PROBLEMA 8
-# Crear una clase Persona y que para instanciar los datos sean datos ingresados desde teclado.
+# Crear una clase Persona y que para instanciar los datos sean datos ingresados desde teclado..
 
 class Persona:
     #se ingreas los datos de la persona.
