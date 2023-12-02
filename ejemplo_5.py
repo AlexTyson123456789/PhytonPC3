@@ -4,7 +4,7 @@
 #que me permita identificar el país de origen , el numero de lote .
 
 #SOLUCION:
-# producto.py
+# se crea una clase "PRODUCTO_5" donde tiene atributos de nombre y codigo
 class Producto_5:
     def __init__(self, nombre, codigo):
         self.nombre = nombre
