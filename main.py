@@ -56,7 +56,7 @@ if __name__ == '__main__':
 
     #Problema 6
 
-    #from menu_interativo_operaciones import menu_operaciones #para "ejemplo_4"
+    #from menu_interativo_operaciones import menu_operaci0nes #para "ejemplo_4"
     #funcioness de manejo d e errores.
     #try:
     #    menu_operaciones()
