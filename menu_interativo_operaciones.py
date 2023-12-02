@@ -1,4 +1,5 @@
 
+#se ingresa cualquier nuemro
 def dividir_numeros(num1, num2):
     if num2 == 0:
         return "No es posible dividir por cero."
